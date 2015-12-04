@@ -196,7 +196,7 @@ switch(state){
      enemy_y=floor(random(200,420));
  state=4;}
  break;
- 
+ ;
  case 4:
 //image(enemyImg,enemy_x,enemy_y);
 
